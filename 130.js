@@ -23,7 +23,7 @@ for(let i=0;i<100;i++){
 }
 
 
-
+//
 console.log("settimeout id ",id);
 clearTimeout(id);
 console.log("script end");
